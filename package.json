@@ -1,0 +1,12 @@
+{
+  "name": "hvs-microfrontends-spa",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "start": "lerna run start --parallel"
+  },
+  "dependencies": {
+    "lerna": "^3.20.1"
+  }
+}

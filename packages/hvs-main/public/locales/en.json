@@ -1,0 +1,14 @@
+{
+  "components": {
+    "common": {
+      "header": {
+        "appName": "Hitachi Visualization Suite"
+      }
+    }
+  },
+  "pages": {
+    "notFound": {
+      "title": "Not Found"
+    }
+  }
+}
